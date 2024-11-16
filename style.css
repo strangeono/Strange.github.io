@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+}
+
+.navbar a {
+    color: hsl(0, 0%, 100%) !important;
+}
+
+h1, h2 {
+    color: #000000;
+    font-weight:bold;
+}
+
+p{
+    color: #000000;
+}
+
+.form-group + .btn {
+    margin-top: 1.5rem; 
+}
